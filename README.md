@@ -13,5 +13,5 @@
 
 </div>
 
- <img src="https://raw.githubusercontent.com/CarlusKauan/FormRaccoon/main/img.png" height="460" width="700" >
+ <img src="https://raw.githubusercontent.com/CarlusKauan/FormRaccoon/main/img.png" height="360" width="600" >
 
